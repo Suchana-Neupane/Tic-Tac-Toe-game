@@ -1,4 +1,4 @@
-# importing all necessary libraries
+
 import random
 import tkinter
 from tkinter import *
